@@ -1,2 +1,2 @@
-# EzPay
-Submission for MishMash | Online Hackathon | PAN INDIA
+# PaySa UPI+
+Submission for RealMe PaySa UPI Hackathon.
